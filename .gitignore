@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+# Docker
+docker-compose.override.yml
+.env
+
+# InfluxDB data
+influxdb_data/
+
+# Grafana data
+grafana_data/
